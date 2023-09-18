@@ -478,3 +478,31 @@ sudo userdel -r shiv5
 sudo userdel -r shi
 cat /etc/passwd
 cat /etc/passwd | grep "post"
+git status
+git branch
+git remote add origin https://github.com/shiva99899/shell-scripting.git
+git pull 
+git pull origin
+git pull origin master
+git branch
+git push 
+git status
+git add .
+git commit -m "initial shell scripts"
+git branch
+git push origin master
+ssh-keygen
+cd ~/.ssh/
+ls
+cat id_rsa.pub 
+clear
+git init
+git config -l
+git push
+git status
+git add .
+git commit -a "second commit"
+git pull 
+git branch --set-upstream-to=origin master
+git push 
+ git push --set-upstream origin master
